@@ -1,7 +1,6 @@
-# Learnmed
-<h1>Michine Learning? with your intrested research area.<h1>
 
-<p>This is a look at using python to access pubmed articles based on on 
-user search term(s) and returning some suggesting additional search/articiles
-in addition to those suggestined by pubmed.<p>
+<h1>Applying Michine Learning to Research Intrests.<h1>
+
+<p>This project hopes to use python to access <a href= "http://www.ncbi.nlm.nih.gov/pubmed">pubmed</a> articles based on on 
+user search term(s). but instead of returning the suggested the suggested search results it will also highlight key authors of <p>
 
